@@ -9,3 +9,6 @@
   Hey 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+### :woman_technologist: About Me :
+I am Viktoria. At the moment, I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science, majoring in Applied Mathematics.
