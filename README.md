@@ -12,4 +12,13 @@
 </div>
  
 <h3>:woman_technologist: About Me :</h3>
-<p>I am Viktoria. At the moment, I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science, majoring in Applied Mathematics.</p>
+<p>I am Viktoria. At the moment, I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science, majoring in Applied Mathematics.
+<br><br>
+I am currently learning:
+  <br>
+  - Algorithms and Data structures
+  <br>
+  - Operating systems
+  <br>
+</p>
+
