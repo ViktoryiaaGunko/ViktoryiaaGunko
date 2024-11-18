@@ -6,19 +6,24 @@
 </div>
 
 <h1>
-  Hey 
+<b> Hey </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
  
 <h3>:woman_technologist: About Me :</h3>
-<p>I am Viktoria. At the moment, I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science, majoring in Applied Mathematics.
+<p>I am Viktoria. At the moment, <b> I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science <b/>, majoring in <b> Applied Mathematics<b/>.
 <br><br>
-I am currently learning:
+<b>I am currently learning:</b>
   <br>
   - Algorithms and Data structures
   <br>
   - Operating systems
   <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  Figma
+  <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
+  Java
 </p>
 
