@@ -12,18 +12,33 @@
 </div>
  
 <h3>:woman_technologist: About Me :</h3>
-<p>I am Viktoria. At the moment, <strong> I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science <strong/>, majoring in <strong> Applied Mathematics<strong/>.
+<p>I am Viktoria, currently studying Applied Mathematics at the Faculty of Applied Mathematics and Computer Science at Belarusian State University.
 <br><br>
-<strong>I am currently learning:<strong/>
-  <br>
-  - Algorithms and Data structures
-  <br>
-  - Operating systems
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  Figma
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
-  Java
+
+<p><strong>📖 Subjects that I have studied:</strong></p>
+<ul>
+  <li>Analytical geometry</li>
+  <li>Mathematical analysis</li>
+  <li>Fundamentals of higher algebra</li>
+  <li>Linear algebra</li>
+</ul>
+
+<br>
+
+<p><strong>📖 The subjects I study:</strong></p>
+<ul>
+  <li>Operating systems</li>
+  <li>Industrial programming</li>
+  <li>Algorithms and Data structures</li>
+</ul>
+
+<h4>🛠️ Languages and Tools : </h4>
+ <p>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+
+
 </p>
+  
+
 
